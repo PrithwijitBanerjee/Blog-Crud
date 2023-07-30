@@ -68,3 +68,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+### Project Description 
+This is a Blog Project along with CRUD Applications and Add To Cart features..., it's functionality fully based on API. Blog contains Search Bar, Blog Articles, Detailed Blog Article Section and Pagination using React-Paginate Package/Module.
+
+### Authentication Section
+Token based Login and Registration using live Node API(Express Js).
+Redux Toolkit (createSlice) has been used in this types of Authentication.

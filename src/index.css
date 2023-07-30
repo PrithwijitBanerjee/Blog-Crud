@@ -11,3 +11,32 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.linkStyle{
+  color:green;
+}
+.linkStyle:hover{
+  color:white;
+  font-weight: bold;
+}
+
+.cartCard{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: #fff;
+  margin-bottom: 20px;
+  padding: 14px;
+  border-radius: 5px;
+}
+
+li{
+  list-style-type:none;
+}
+
+.activePage{
+  background-color: rgb(5, 184, 5);
+  color:white;
+  font-weight: bold;
+  font-size: 20px;
+}
